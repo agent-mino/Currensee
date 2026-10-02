@@ -1,0 +1,6 @@
+{
+  "USD": { "name": "United States Dollar", "symbol": "$", "countryCode": "us" },
+  "EUR": { "name": "Euro", "symbol": "€", "countryCode": "eu" },
+  "GBP": { "name": "British Pound", "symbol": "£", "countryCode": "gb" },
+  "NGN": { "name": "Nigerian Naira", "symbol": "₦", "countryCode": "ng" }
+}
